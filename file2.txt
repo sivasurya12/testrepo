@@ -1,1 +1,2 @@
 file2 is created
+pull this in local repository
